@@ -2,6 +2,10 @@
 
 Welcome to my knowledge base. This repository contains documentation on topics I care about, related to Technical Product Management, in both English and Japanese.
 
-- [PdM Metrics (EN)](pdm_metrics_en.md)
+## English Documentation
 
-- [PdM メトリックス (JA)](pdm_metrics_ja.md)
+- [PDM Metrics (English)](english/pdm_metrics_en.md)
+
+## Japanese Documentation
+
+- [PDM Metrics (Japanese)](japanese/pdm_metrics_ja.md)
