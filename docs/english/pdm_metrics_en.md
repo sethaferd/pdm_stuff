@@ -1,6 +1,6 @@
-The following are metrics I care about when working as an inbound or technical Product Manager:
+# PdM Metrics (EN)
 
-# Metrics and/or KPIs
+The following are metrics I care about when working as an inbound or technical Product Manager:
 
 ## 1. Customer Satisfaction Metrics
 
